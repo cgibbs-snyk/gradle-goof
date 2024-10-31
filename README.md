@@ -1,5 +1,7 @@
 # gradle-goof
 
+> test update
+
 A test repository with zero code and a complex Gradle build setup that contains several vulnerabilities.
 
 The goal of this repository is to showcase some of the Gradle features supported by Snyk Open Source.
