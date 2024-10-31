@@ -1,4 +1,4 @@
-# gradle-goof
+# gradle-goof v2
 
 A test repository with zero code and a complex Gradle build setup that contains several vulnerabilities.
 
